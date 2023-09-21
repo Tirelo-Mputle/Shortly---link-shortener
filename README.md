@@ -1,7 +1,7 @@
 ## Shortly – React Link Shortening Web Application
 
 ### Description: URL Link shortening web application using the GoTiny link shortener API<br>
-🔗 https://shortly-url-shorter-api.netlify.app/ <br>
+Live site -https://shortly-url-shorter-api.netlify.app/ <br>
 
 * Used [**GoTiny Link Shortening API**](https://github.com/robvanbakel/gotiny-api) to shorten user-inputted long URL links.
 * Shortened links are stored in local storage and the three most recent results are displayed below  the input field.
