@@ -2,7 +2,7 @@
 
 ### Description: URL Link shortening web application using the GoTiny link shortener API<br>
 🔗 https://shortly-url-shorter-api.netlify.app/ <br>
-🔗 https://github.com/Tirelo-Mputle/Shortly---link-shortener <br>
+
 * Used [**GoTiny Link Shortening API**](https://github.com/robvanbakel/gotiny-api) to shorten user-inputted long URL links.
 * Shortened links are stored in local storage and the three most recent results are displayed below  the input field.
 * A copy of the shortened link is made by clicking the “copy” button.
